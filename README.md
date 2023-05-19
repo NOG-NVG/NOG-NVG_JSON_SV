@@ -16,6 +16,7 @@ $ ./json_syntax_validator
 Enter your choice: 1
 
 Enter the size of the stack: 10
+
 Enter the name of the JSON file: example.json
 
 FBF - Ficheiro bem formado!
